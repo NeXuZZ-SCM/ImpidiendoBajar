@@ -1,0 +1,19 @@
+.body {
+    height: 600px;
+  }
+
+#DETECTOR{
+  margin : 2px solid red;
+  top: 0;
+}
+#Escondido{
+  visibility: hidden;
+  position: absolute;
+  top:0px;
+  color: red;
+  background-color: black;
+
+}
+#SoloDoyAltura{
+  height: 600px;
+}
